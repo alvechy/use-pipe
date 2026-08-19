@@ -1,13 +1,13 @@
 {
 	"name": "use-pipe",
-	"author": "Alex Swed <lexswed@gmail.com> (http://github.com/lexswed)",
-	"homepage": "https://github.com/LexSwed/use-pipe",
+	"author": "Alex Swed <lexswed@gmail.com> (https://github.com/alvechy)",
+	"homepage": "https://github.com/alvechy/use-pipe",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/LexSwed/use-pipe"
+		"url": "https://github.com/alvechy/use-pipe"
 	},
 	"bugs": {
-		"url": "https://github.com/LexSwed/use-pipe/issues"
+		"url": "https://github.com/alvechy/use-pipe/issues"
 	},
 	"description": "Yet another global state management with  React Context and Hooks",
 	"version": "1.1.1",
